@@ -1,0 +1,1 @@
+Upload all files to the web root of myherbal.blog (Netlify, Cloudflare Pages or any static host). Replace placeholder content and images as you publish more articles by adding entries to build.py and running: python3 build.py
